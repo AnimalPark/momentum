@@ -32,8 +32,8 @@ const quotes = [
         author: 'Wayne Huizenga'
     },
     {
-        quote: 'The only thing worse than starting something and falling.. is not starting something',
-        author: 'SEth Godin'
+        quote: '무언가를 시작하는것과 실패하는것보다 좋지 않은것은 시작하지 않는것이다.',
+        author: '세드 고딘'
     },
     {
         quote: '만약 여러분이 정말로 무언가를 하고 싶다면, 여러분은 방법을 찾을 것입니다. 만약 그렇지 않다면, 너는 핑계를 찾을 것이다.',

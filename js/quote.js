@@ -32,7 +32,7 @@ const quotes = [
         author: 'Wayne Huizenga'
     },
     {
-        quote: '하하',
+        quote: '무언가를 시작하는것과 실패하는것보다 좋지 않은것은 시작하지 않는것이다.',
         author: '세드 고딘'
     },
     {

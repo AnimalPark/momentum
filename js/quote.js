@@ -1,7 +1,7 @@
 const quotes = [
     {
-        quote: 'I never dreamed about success, I worked for it',
-        author: 'Estee Lauder'
+        quote: '나는 절대 성공을 꿈꾸지 않는다. 나는 그것을 쫒을 뿐이다.',
+        author: '에스티 라우더'
     },
     {
         quote: 'Do not try to be original, just try to be good.',

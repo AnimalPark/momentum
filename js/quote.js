@@ -36,8 +36,8 @@ const quotes = [
         author: 'SEth Godin'
     },
     {
-        quote: 'If you really want to do something, you will find a way. If you do not, you will find an excuse.',
-        author: 'Jim Rohn'
+        quote: '만약 여러분이 정말로 무언가를 하고 싶다면, 여러분은 방법을 찾을 것입니다. 만약 그렇지 않다면, 너는 핑계를 찾을 것이다.',
+        author: '짐 론'
     },
 ];
 

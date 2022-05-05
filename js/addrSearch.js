@@ -14,6 +14,9 @@ function typingString(){
     method: "POST",
     headers: {
         "Content-Type": "application/json",
+
+
+        jhlk;lj'ljk
     },
     body: JSON.stringify({
         title: "Test",
